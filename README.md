@@ -1,4 +1,4 @@
-# mid-term-project 
+# Mid-term-project 
 my website link
 http://abdisalann.pythonanywhere.com/
 
