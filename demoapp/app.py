@@ -31,7 +31,7 @@ we can use python to create a website</h3>'''
 
 @app.route('/Contact')
 def Contact():
-	return '''<h1>You can contact the developer of this website</h1>
+    return '''<h1>You can contact the developer of this website</h1>
 <p>* Example.gmail.com</p>
 <p>* +00998888777666777</p>
 '''
